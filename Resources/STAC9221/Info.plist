@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Author</key>
+	<string>Jazzzny</string>
+	<key>CodecID</key>
+	<integer>30336</integer>
+	<key>CodecName</key>
+	<string>STAC9221</string>
+	<key>Files</key>
+	<dict>
+		<key>Layouts</key>
+		<array>
+			<dict>
+				<key>Comment</key>
+				<string>Jazzzny - SigmaTel STAC9221 - MacBook2,1</string>
+				<key>Id</key>
+				<integer>34</integer>
+				<key>Path</key>
+				<string>layout34.xml.zlib</string>
+			</dict>
+            <dict>
+				<key>Comment</key>
+				<string>Jazzzny - SigmaTel STAC9221 - MacBook2,1</string>
+				<key>Id</key>
+				<integer>34</integer>
+				<key>Path</key>
+				<string>PlatformsApple.xml.zlib</string>
+			</dict>
+
+		</array>
+	</dict>
+	<key>Patches</key>
+	<array/>
+	<key>Revisions</key>
+	<array>
+		<integer>1061889</integer>
+	</array>
+	<key>Vendor</key>
+	<string>SigmaTel</string>
+</dict>
+</plist>
