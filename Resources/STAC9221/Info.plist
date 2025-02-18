@@ -28,7 +28,70 @@
 				<key>Path</key>
 				<string>PlatformsApple.xml.zlib</string>
 			</dict>
-
+			<dict>
+				<key>Comment</key>
+				<string>Jazzzny - SigmaTel STAC9221 - MacBookPro2,1</string>
+				<key>Id</key>
+				<integer>26</integer>
+				<key>Path</key>
+				<string>layout26.xml.zlib</string>
+			</dict>
+            <dict>
+				<key>Comment</key>
+				<string>Jazzzny - SigmaTel STAC9221 - MacBookPro2,1</string>
+				<key>Id</key>
+				<integer>26</integer>
+				<key>Path</key>
+				<string>PlatformsApple.xml.zlib</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>Jazzzny - SigmaTel STAC9221 - MacBookPro2,2</string>
+				<key>Id</key>
+				<integer>30</integer>
+				<key>Path</key>
+				<string>layout30.xml.zlib</string>
+			</dict>
+            <dict>
+				<key>Comment</key>
+				<string>Jazzzny - SigmaTel STAC9221 - MacBookPro2,2</string>
+				<key>Id</key>
+				<integer>30</integer>
+				<key>Path</key>
+				<string>PlatformsApple.xml.zlib</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>Jazzzny - SigmaTel STAC9221 - Macmini1,1/Macmini2,1</string>
+				<key>Id</key>
+				<integer>8</integer>
+				<key>Path</key>
+				<string>layout8.xml.zlib</string>
+			</dict>
+            <dict>
+				<key>Comment</key>
+				<string>Jazzzny - SigmaTel STAC9221 - Macmini1,1/Macmini2,1</string>
+				<key>Id</key>
+				<integer>8</integer>
+				<key>Path</key>
+				<string>PlatformsApple.xml.zlib</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>Jazzzny - SigmaTel STAC9221 - iMac5,1</string>
+				<key>Id</key>
+				<integer>22</integer>
+				<key>Path</key>
+				<string>layout22.xml.zlib</string>
+			</dict>
+            <dict>
+				<key>Comment</key>
+				<string>Jazzzny - SigmaTel STAC9221 - iMac5,1</string>
+				<key>Id</key>
+				<integer>22</integer>
+				<key>Path</key>
+				<string>PlatformsApple.xml.zlib</string>
+			</dict>
 		</array>
 	</dict>
 	<key>Patches</key>
