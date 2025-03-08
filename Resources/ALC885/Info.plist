@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>Author</key>
-	<string>alex1960 and Khronokernel</string>
+	<string>alex1960, Khronokernel, and Jazzzny</string>
 	<key>CodecID</key>
 	<integer>2181</integer>
 	<key>CodecName</key>
@@ -302,6 +302,54 @@
 				<integer>13</integer>
 				<key>Path</key>
 				<string>PlatformsApple.xml.zlib</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>Jazzzny - Realtek ALC885 - MacBookAir1,1</string>
+				<key>Id</key>
+				<integer>52</integer>
+				<key>Path</key>
+				<string>layout52.xml.zlib</string>
+			</dict>
+            <dict>
+				<key>Comment</key>
+				<string>Jazzzny - Realtek ALC885 - MacBookAir1,1</string>
+				<key>Id</key>
+				<integer>52</integer>
+				<key>Path</key>
+				<string>PlatformsAppleLion.xml.zlib</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>Jazzzny - Realtek ALC885 - iMac6,1</string>
+				<key>Id</key>
+				<integer>16</integer>
+				<key>Path</key>
+				<string>layout16.xml.zlib</string>
+			</dict>
+            <dict>
+				<key>Comment</key>
+				<string>Jazzzny - Realtek ALC885 - iMac6,1</string>
+				<key>Id</key>
+				<integer>16</integer>
+				<key>Path</key>
+				<string>PlatformsAppleLion.xml.zlib</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>Jazzzny - Realtek ALC885 - MacBook3,1/MacBook4,1</string>
+				<key>Id</key>
+				<integer>54</integer>
+				<key>Path</key>
+				<string>layout54.xml.zlib</string>
+			</dict>
+            <dict>
+				<key>Comment</key>
+				<string>Jazzzny - Realtek ALC885 - MacBook3,1/MacBook4,1</string>
+				<key>Id</key>
+				<integer>54</integer>
+				<key>Path</key>
+				<string>PlatformsAppleLion.xml.zlib</string>
 			</dict>
 		</array>
 	</dict>
